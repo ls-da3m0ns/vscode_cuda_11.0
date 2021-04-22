@@ -1,0 +1,1 @@
+after vm is up and running install cudnn from this link  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcudnn8_8.0.5.39-1+cuda11.0_amd64.deb
